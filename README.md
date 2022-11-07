@@ -6,7 +6,7 @@
 
 
 使用させていただいた効果音
-https://soundeffect-lab.info/様の
+https://soundeffect-lab.info/ 様の
 ・クイズ正解1.mp3
 ・クイズ不正解1.mp3
 
